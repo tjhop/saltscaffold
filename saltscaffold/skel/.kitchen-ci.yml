@@ -23,6 +23,7 @@ provisioner:
 
 platforms:
   - name: debian_jessie
+  - name: debian_stretch
 
 suites:
   - name: default
